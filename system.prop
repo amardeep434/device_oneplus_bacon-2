@@ -2,6 +2,11 @@
 # system.prop for one+
 #
 
+# Additions
+ro.adb.secure=0
+ro.secure=0
+ro.allow.mock.location=0
+ro.debuggable=1
 ro.sf.lcd_density=400
 
 # Bluetooth
