@@ -31,6 +31,7 @@ ro.gps.agps_provider=1
 af.fast_track_multiplier=1
 audio_hal.period_size=192
 use.voice.path.for.pcm.voip=true
+drm.service.enabled=true
 
 audio.offload.buffer.size.kb=32
 audio.offload.video=true
