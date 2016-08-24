@@ -21,7 +21,7 @@ $(call inherit-product, device/oneplus/bacon/bacon.mk)
 # Inherit some common Tesla stuff.
 $(call inherit-product, vendor/xos/config/common.mk)
 
-PRODUCT_NAME := xos_bacon
+PRODUCT_NAME := XOS_bacon
 PRODUCT_DEVICE := bacon
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_MODEL := A0001
